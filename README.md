@@ -1,4 +1,10 @@
-# Getting Started with Create React App
+# Dolla - A Smoothscroll Project
+
+### [LiveLink](https://dolla-afeer.netlify.app/)
+
+![](https://thumbs.gfycat.com/AcademicVibrantKittiwake-mobile.mp4)
+
+## Introduction
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
