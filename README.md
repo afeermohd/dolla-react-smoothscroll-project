@@ -2,11 +2,11 @@
 
 ### [LiveLink](https://dolla-afeer.netlify.app/)
 
-![](https://thumbs.gfycat.com/AcademicVibrantKittiwake-mobile.mp4)
+![](https://media1.tenor.com/images/a012a324f17c59a4e004f8381d75dc8e/tenor.gif?itemid=19576320)
 
 ## Introduction
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a react project which has a smooth scroll UI. This uses styled components, react scroll and react router.
 
 ## Available Scripts
 
